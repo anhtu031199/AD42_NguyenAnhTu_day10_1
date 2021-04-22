@@ -111,7 +111,6 @@ public class MainActivity extends AppCompatActivity {
                 alertDialog.show();
             }
         });
-
         binding.btnTune.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
